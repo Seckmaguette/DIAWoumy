@@ -1,0 +1,98 @@
+ul{
+	list-style-type: none;
+	background-color: #201854;
+	height:110px;
+	margin-top: 20px;
+	padding-top: 20px;
+
+
+}
+li{
+	display: inline-block;
+	margin: 15px;
+	float: right;
+	background-color: white;
+}
+footer{
+background-color: #201854;
+height: 80px;
+margin-bottom:10px;
+text-align: center;
+overflow:hidden;
+}
+#container{
+height:1700px;
+background-color:white;
+
+}
+p{
+	text-align: center;
+	font-size:25px;
+}
+#main{
+	text-align:center;
+	background-color:  #201854;
+	height:350px;
+}
+input{
+	width:250px;
+	height:50px;
+	font-size:20px;
+	text-align:center;
+	background-color:#201854;
+	opacity: 0,8;
+	color: white;
+}
+
+
+	label{
+		font-size:20px;
+	}
+
+textarea{
+	width:600px;
+	height:150px;
+	text-align:center;
+}
+form{
+	width:1000px;
+	height:800px;
+	float:right;
+
+	
+	}
+
+	.cool{
+		margin-top:0px;
+	}
+
+	
+
+
+	.per{
+		text-align:center;
+	}
+	
+	.BA{
+		text-align:center;
+
+	}
+
+	h2{
+		color:white;
+		text-align:center;
+	}
+
+.aziz{
+	width:1000px;
+
+}
+
+
+#Ter{
+		text-align:center;
+
+
+	
+	}
+
